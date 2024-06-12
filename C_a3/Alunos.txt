@@ -1,0 +1,15 @@
+========ALUNO========
+Karlach
+GET
+654
+78.0
+=======ALUNOS=======
+Jaheira
+GES
+34
+79.0
+=======ALUNOS=======
+Joao
+GEC
+298
+12.0
